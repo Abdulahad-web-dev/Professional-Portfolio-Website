@@ -182,7 +182,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌟 Live Demo
 
-View the live portfolio [here](https://abdulahad-web-dev.github.io/Professional-Portfolio-Website/) (replace with actual deployment URL).
+View the live portfolio [here](https://abdulahad-web-dev.github.io/Professional-Portfolio-Website/)
 
 ## 🔗 Social Links
 
